@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/MaskAlign-v1.0-2ea44f?style=for-the-badge&logo=github" alt="version">
-
 # MaskAlign
 ### Mask-Guided Multi-Granularity Contrastive Learning<br>for Fine-Grained Vision–Language Alignment
+<img src="https://img.shields.io/badge/MaskAlign-v1.0-2ea44f?style=for-the-badge&logo=github" alt="version">
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
 [![ModelScope Model](https://img.shields.io/badge/🤗%20Model-Collection-purple?style=flat-square)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
@@ -12,7 +11,7 @@
 
 <br>
 
-*Jiangeng Chen* · *Hongtao Yu* · *Pandeng Li* · *Chen-Wei Xie* · *Yuxin Peng* · *Xiu-Shen Wei*
+[*Jiangeng Chen*](https://github.com/Chenjg02) · *Hongtao Yu* · *Pandeng Li* · *Chen-Wei Xie* · *Yuxin Peng* · *Xiu-Shen Wei*
 
 </div>
 
@@ -49,11 +48,15 @@
 <td width="50%">
 
 > **Pixel-Level Multi-Granularity Supervision**
+>
+> Fine-grained alignment at pixel level across multiple granularities, enabling precise region-level vision–language correspondence.
 
 </td>
 <td width="50%">
 
 > **Intra-Granularity Alignment**
+>
+> Cross-modal contrastive learning within each granularity layer, ensuring consistent feature matching at every scale.
 
 </td>
 </tr>
@@ -61,9 +64,15 @@
 <td width="50%">
 
 > **Mask Feature Aggregation Strategy**
+>
+> Aggregating region features via learnable mask tokens for more precise vision–language matching, surpassing global-pooling baselines.
 
 </td>
 <td width="50%">
+
+> **Strong Open-Vocabulary Performance**
+>
+> Competitive results on holistic understanding, bbox/mask classification, and semantic segmentation benchmarks.
 
 </td>
 </tr>
@@ -188,3 +197,4 @@ We stand on the shoulders of these excellent open-source works:
 <div align="center">
   <sub>© 2026 MaskAlign · All links preserved from original</sub>
 </div>
+
