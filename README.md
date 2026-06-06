@@ -10,7 +10,7 @@
 
 <br>
 
-[*Jiangeng Chen*](https://github.com/Chenjg02) · *Hongtao Yu* · *Pandeng Li* · *Chen-Wei Xie* · *Yuxin Peng* · *Xiu-Shen Wei*
+*Jiangeng Chen* · *Hongtao Yu* · *Pandeng Li* · *Chen-Wei Xie* · *Yuxin Peng* · *Xiu-Shen Wei*
 
 </div>
 
