@@ -165,12 +165,10 @@ If you find MaskAlign useful, please cite:
 
 ```bibtex
 @article{chen2026maskalign,
-  title   = {Mask-Guided Multi-Granularity Contrastive Learning for
-             Fine-Grained Vision–Language Alignment},
-  author  = {Chen, Jiangeng and Yu, Hongtao and Li, Pandeng and
-             Xie, Chen-Wei and Peng, Yuxin and Wei, Xiu-Shen},
-  journal = {arXiv preprint arXiv:2026},
-  year    = {2026}
+        title={Mask-Guided Multi-Granularity Contrastive Learning for Fine-Grained Vision–Language Alignment},
+        author={Jiangeng Chen, Hongtao Yu, Pandeng Li, Chen-Wei Xie, Yuxin Peng and Xiu-Shen Wei},
+        journal={arXiv preprint arXiv:2026.},
+        year={2026}
 }
 ```
 
