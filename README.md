@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://img.shields.io/badge/MaskAlign-v1.0-2ea44f?style=for-the-badge&logo=github" alt="version">
+# MaskAlign
 ### Mask-Guided Multi-Granularity Contrastive Learning for Fine-Grained Vision–Language Alignment
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
