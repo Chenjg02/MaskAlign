@@ -2,9 +2,11 @@
 </br>
 Jiangeng Chen, Hongtao Yu, Pandeng Li, Chen-Wei Xie, Yuxin Peng, Xiu-Shen Wei
 </br>
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/xxxx.xxxxx)
-[![ModelScope-model](https://img.shields.io/badge/Model-Collection-purple)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
-[![ModelScope-data](https://img.shields.io/badge/Benchmark-Collection-purple)](https://modelscope.cn/datasets/Chenjg02/MG-Data)
+[![ICML](https://img.shields.io/badge/ICML-2026-blue.svg)](https://icml.cc/Conferences/2026)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.10921-b31b1b.svg)](https://arxiv.org/abs/2510.10921)
+[![HF-model](https://img.shields.io/badge/Model-Collection🤗-yellow.svg)](https://huggingface.co/collections/qihoo360/fg-clip-2-68ecbf9c548623bb78bc7913)
+[![HF-data](https://img.shields.io/badge/Benchmark-Collection🤗-yellow.svg)](https://huggingface.co/collections/qihoo360/fg-clip-2-68ecbf9c548623bb78bc7913)
+[![API+MCP](https://img.shields.io/badge/API/MCP-FG--CLIPv2-green.svg)](https://research.360.cn/sass/index)
 
 ## 💡 Highlights
 - 🔥 **Pixel-Level Multi-Granularity Supervision**
