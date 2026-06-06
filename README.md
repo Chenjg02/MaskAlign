@@ -191,7 +191,3 @@ We stand on the shoulders of these excellent open-source works:
 
 <br>
 
-<div align="center">
-  <sub>© 2026 MaskAlign · All links preserved from original</sub>
-</div>
-
