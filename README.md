@@ -1,7 +1,7 @@
 <div align="center">
   
 # MaskAlign
-### Mask-Guided Multi-Granularity Contrastive Learning for Fine-Grained Vision–Language Alignment
+### Mask-Guided Multi-Granularity Contrastive Learning </br>for Fine-Grained Vision–Language Alignment
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
 [![ModelScope Model](https://img.shields.io/badge/🤗%20Model-Collection-purple?style=flat-square)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
