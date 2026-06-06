@@ -3,6 +3,11 @@
 # <img src="https://img.shields.io/badge/MaskAlign-v1.0-2ea44f?style=for-the-badge&logo=github" alt="version">
 ### Mask-Guided Multi-Granularity Contrastive Learning for Fine-Grained Vision–Language Alignment
 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
+[![ModelScope Model](https://img.shields.io/badge/🤗%20Model-Collection-purple?style=flat-square)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
+[![ModelScope Data](https://img.shields.io/badge/📦%20Dataset-Collection-purple?style=flat-square)](https://modelscope.cn/datasets/Chenjg02/MG-Data)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](./LICENSE)
+
 <br>
 
 [*Jiangeng Chen*](https://github.com/Chenjg02) · *Hongtao Yu* · *Pandeng Li* · *Chen-Wei Xie* · *Yuxin Peng* · *Xiu-Shen Wei*
@@ -10,11 +15,6 @@
 </div>
 
 <br>
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
-[![ModelScope Model](https://img.shields.io/badge/🤗%20Model-Collection-purple?style=flat-square)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
-[![ModelScope Data](https://img.shields.io/badge/📦%20Dataset-Collection-purple?style=flat-square)](https://modelscope.cn/datasets/Chenjg02/MG-Data)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](./LICENSE)
 
 <p align="center">
   <img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Pixel-Level+Multi-Granularity+Supervision;Intra-Granularity+Contrastive+Alignment;Mask+Feature+Aggregation+Strategy" alt="features">
