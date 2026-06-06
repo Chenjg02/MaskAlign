@@ -49,15 +49,11 @@
 <td width="50%">
 
 > **Pixel-Level Multi-Granularity Supervision**
->
-> Fine-grained alignment at pixel level across multiple granularities, enabling precise region-level vision–language correspondence.
 
 </td>
 <td width="50%">
 
 > **Intra-Granularity Alignment**
->
-> Cross-modal contrastive learning within each granularity layer, ensuring consistent feature matching at every scale.
 
 </td>
 </tr>
@@ -65,15 +61,9 @@
 <td width="50%">
 
 > **Mask Feature Aggregation Strategy**
->
-> Aggregating region features via learnable mask tokens for more precise vision–language matching, surpassing global-pooling baselines.
 
 </td>
 <td width="50%">
-
-> **Strong Open-Vocabulary Performance**
->
-> Competitive results on holistic understanding, bbox/mask classification, and semantic segmentation benchmarks.
 
 </td>
 </tr>
