@@ -28,7 +28,7 @@ Download [MG-Data](https://modelscope.cn/datasets/Chenjg02/MG-Data).
 
 Dataset for evaluation(holistic image understanding tasks):
 
-Download the [share-captioner_coco_lcs_sam_1246k_1107.json](https://huggingface.co/datasets/Lin-Chen/ShareGPT4V/blob/main/share-captioner_coco_lcs_sam_1246k_1107.json) from the following link 
+Download the [ShareGPT4V](https://huggingface.co/datasets/Lin-Chen/ShareGPT4V/blob/main/share-captioner_coco_lcs_sam_1246k_1107.json) from the following link 
 
 Download the [CocoCaptions](https://github.com/tylin/coco-caption) from the following link nd put them into data/coco/annotations/
 
