@@ -4,7 +4,7 @@ Jiangeng Chen, Hongtao Yu, Pandeng Li, Chen-Wei Xie, Yuxin Peng, Xiu-Shen Wei
 </br>
 [![arXiv](https://img.shields.io/badge/arXiv.svg)](xxx)
 [![ModelScope-model](https://img.shields.io/badge/Model-Collection🤖-purple.svg)](https://modelscope.cn/models/Chenjg02/MaskAlign-Base)
-[![ModelScope-data](https://img.shields.io/badge/Benchmark-Collection🤖-purple.svg)](https://huggingface.co/collections/qihoo360/fg-clip-2-68ecbf9c548623bb78bc7913](https://modelscope.cn/datasets/Chenjg02/MG-Data)](https://modelscope.cn/datasets/Chenjg02/MG-Data)
+[![ModelScope-data](https://img.shields.io/badge/Benchmark-Collection🤖-purple.svg)](https://modelscope.cn/datasets/Chenjg02/MG-Data)
 
 ## 💡 Highlights
 - 🔥 **Pixel-Level Multi-Granularity Supervision**
